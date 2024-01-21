@@ -6,4 +6,11 @@
 
 body {
     min-height: 100vh;
+    background-color: #000000;
+    color: #ffffff;
 }
+
+a {
+    color: #ffffff;
+}
+
