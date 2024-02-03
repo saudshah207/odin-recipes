@@ -8,6 +8,9 @@ body {
     min-height: 100vh;
     background-color: #000000;
     color: #ffffff;
+    max-width: 1300px;
+    margin: 2rem auto;
+    padding: 0 0.78125rem; 
 }
 
 a {
