@@ -13,6 +13,10 @@ body {
     padding: 0 0.78125rem; 
 }
 
+a {
+    color: #ffffff;
+}
+
 .recipes {
     display: inline-flex;
     flex-wrap: wrap;
@@ -20,7 +24,6 @@ body {
     margin: 1.5rem 0;
 }
 
-a {
-    color: #ffffff;
+.caption p:nth-child(2) {
+    margin-top: 1rem;
 }
-
