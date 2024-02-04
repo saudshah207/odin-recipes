@@ -1,0 +1,10 @@
+.recipes {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    margin: 1.5rem 0;
+}
+
+.caption p:nth-child(2) {
+    margin-top: 1rem;
+}
