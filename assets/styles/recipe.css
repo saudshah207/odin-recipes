@@ -1,0 +1,18 @@
+h1 {
+    margin: 1.5rem 0;
+}
+
+h2 {
+    margin: 1rem 0;
+}
+
+ul, ol {
+    padding-left: 1rem;
+}
+
+a {
+    display: inline-block; /* anchor element is inline by default,
+                            inline elements are laid out horizontally 
+                            and only accept horizontal margin/padding */
+    margin: 1.5rem 0;
+}
