@@ -5,6 +5,11 @@
     margin: 1.5rem 0;
 }
 
+.recipes,
+.recipes>a {
+    max-width: 100%;
+}
+
 .caption p:nth-child(2) {
     margin-top: 1rem;
 }
