@@ -10,6 +10,11 @@ ul, ol {
     padding-left: 1rem;
 }
 
+img {
+    object-fit: contain;
+    height: auto;
+}
+
 a {
     display: inline-block; /* anchor element is inline by default,
                             inline elements are laid out horizontally 
